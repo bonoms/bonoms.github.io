@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on bonoms.com</title>
+    
+    
+    
+    <link>/post/</link>
+    <description>Recent content in Posts on bonoms.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A matter Instagram and Amazon</title>
+      <link>/post/first-post/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-post/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/backto.jpeg&#34;/&gt;
+          
+        
+        
+        
+          Why you&#39;re life is a matter of Intagram and Amazon.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>English interview</title>
+      <link>/post/interrogazione/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/interrogazione/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/london.jpeg&#34;/&gt;
+          
+        
+        
+        
+          Here&#39;s a review for your english interview
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
